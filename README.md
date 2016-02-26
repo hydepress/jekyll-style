@@ -1,8 +1,8 @@
+An opinionated guide to common Jekyll design patterns and anti-patterns.
+
 # Jekyll Style Guide (Reformatted Book Edition)
 
 by Ben Balter et al 
-
-An opinionated guide to common Jekyll design patterns and anti-patterns.
 
 
 > **Note:** The book edition is still an early release and a work-in-progess.
